@@ -12,7 +12,7 @@ Il progetto consiste in un sito web per la recensione di film e serie TV. Nella 
 
 Caratteristiche di XHTML e di CSS che si è inteso mettere alla prova sono le segueti:
 1) Creazione di menù di navigazione
-2)Realizzazione di box
+2) Realizzazione di box
 3) Manipolazione di immagini (stile e ridimensionamento)
 4) Link per indirizzamento del sito
 5) Creazione di tabelle e liste
