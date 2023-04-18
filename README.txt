@@ -1,4 +1,4 @@
-                                                       Contributo 1 HTML-CSS
+                                                       Contributo 1 XHTML-CSS
 
 Componenti gruppo:
 -Ahmed Ilyas Kerrouche
